@@ -1,12 +1,17 @@
+Description
+The repository is a project on a mobile robot 
+that contains a claw at the top and serves as a 
+prototype of a rescue robot that is controlled by 
+the kinect sensor and the two hands with which 
+the displacement of the base in four axes 
+is controlled and the claw.
+
+
 INOS FILES
-The different Reo codes include 
-a series of lines that will help you make the movement 
-of the motors fed by the presence sensors hc-sr04.
+The arduino classes file contains
+ the arduino code to perform the engine 
+and claw movements that are located on the mobile base
 
-
-In the code of AF Motor 
-is the library used in the 
-years of REO_01 A REO_02.
 
 c# Files
 In the codes of c # you get the programming 
